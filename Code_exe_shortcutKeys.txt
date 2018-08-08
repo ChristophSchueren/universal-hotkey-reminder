@@ -1,0 +1,6 @@
+Ctrl+Shift+U , Toggle Shell output
+ctrl + alt + F , Format Document
+Ctrl+Shift+ß , Fold Method
+
+Ctrl + K Ctrl + 0 , fold all
+Ctrl + K Ctrl + 9 , UNfold all

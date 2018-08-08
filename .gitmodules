@@ -1,0 +1,3 @@
+[submodule "CHotkeyControl"]
+	path = CHotkeyControl
+	url = https://github.com/evilC/CHotkeyControl.git
