@@ -1,3 +1,9 @@
 [submodule "CHotkeyControl"]
 	path = CHotkeyControl
 	url = https://github.com/evilC/CHotkeyControl.git
+[submodule "AutoHotkey-Future"]
+	path = AutoHotkey-Future
+	url = https://github.com/cocobelgica/AutoHotkey-Future.git
+[submodule "ahk_library"]
+	path = ahk_library
+	url = https://github.com/lordkrandel/ahk_library.git
