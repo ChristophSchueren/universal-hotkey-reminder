@@ -18,6 +18,8 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 UniversalHotkeyReminder := new UniversalHotkeyReminder_Class()
 ; $ prevents the Send command from triggering the hotkey
 $F1:: UniversalHotkeyReminder.showHotkeys() ; in class
+$^F1:: Send {F1}
+
 $*+F2:: UniversalHotkeyReminder.editHotkeysFile()
 ; Numpad3:: UniversalHotkeyReminder.addHotkey()
 
