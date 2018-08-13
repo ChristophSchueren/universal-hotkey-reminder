@@ -7,3 +7,9 @@
 [submodule "ahk_library"]
 	path = ahk_library
 	url = https://github.com/lordkrandel/ahk_library.git
+[submodule "Class_Hotkey"]
+	path = Class_Hotkey
+	url = https://github.com/Run1e/Class_Hotkey.git
+[submodule "AHK-Object-Oriented-GUIs"]
+	path = AHK-Object-Oriented-GUIs
+	url = https://github.com/Run1e/AHK-Object-Oriented-GUIs.git

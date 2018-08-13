@@ -16,9 +16,10 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 ; main method
 UniversalHotkeyReminder := new UniversalHotkeyReminder_Class()
-Numpad1:: UniversalHotkeyReminder.showHotkeys() ; in class
-Numpad2:: UniversalHotkeyReminder.editHotkeysFile()
-Numpad3:: UniversalHotkeyReminder.addHotkey()
+; $ prevents the Send command from triggering the hotkey
+$F1:: UniversalHotkeyReminder.showHotkeys() ; in class
+$*+F2:: UniversalHotkeyReminder.editHotkeysFile()
+; Numpad3:: UniversalHotkeyReminder.addHotkey()
 
 ; restart script on escape, dont capture escape: "pass-through" hotkeys ~
 ~Esc::Reload
