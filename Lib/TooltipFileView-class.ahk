@@ -11,7 +11,7 @@ class TooltipFileView_Class {
 
     show(filename) {
         If (Not FileExist(filename)) {
-            message := "" . filename . " existiert nicht!"
+            message := "" . filename . " existiert nicht! Anlegen mit ctrl + F2"
             ToolTip, % message
             return
         }
