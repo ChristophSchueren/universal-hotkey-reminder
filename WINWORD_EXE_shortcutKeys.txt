@@ -1,0 +1,3 @@
+Ctrl + Shift + F ; Text FETT setzen
+
+ALT + Shift + <Pfeile> ; Gliedierungsebene verschieben

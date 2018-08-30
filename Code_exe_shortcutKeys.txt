@@ -4,3 +4,5 @@ Ctrl+Shift+ß , Fold Method
 
 Ctrl + K Ctrl + 0 , fold all
 Ctrl + K Ctrl + 9 , UNfold all
+
+F8 , next ERROR

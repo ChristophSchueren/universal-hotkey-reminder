@@ -1,0 +1,8 @@
+Alt+Shift+X, T    run JUnit Tests
+Ctrl+M            maximize editor
+Ctrl+1            Show Quick Fixes (Normal: ctrl + .)
+Ctrl+3            Großes Such Menu (Normal: ctrl + Q)
+                  Complete Bezeichner name (Normal: crtl + space)
+Ctrl+2            show Refectoring menu down right
+
+                  show Keymap

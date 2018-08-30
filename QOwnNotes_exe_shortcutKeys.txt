@@ -1,0 +1,16 @@
+ Ctrl + Shift + F   search for notes (heding AND content)
+ Alt + R remove current note
+ Ctrl + Shift + O opens the current note in an external editor
+
+ Ctrl + Shift + V pastes notes, images and html from the clipboard
+ Alt + Shift + A adds a new tag to a note
+
+
+Text formatting -----
+Ctrl + B formats the selected text bold
+Ctrl + I formats the selected text italic
+
+Ctrl + Shift + C inserts a code block at the current position
+
+
+Bad Char: ⇧
