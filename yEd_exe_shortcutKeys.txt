@@ -1,1 +1,2 @@
 Alt+Shift+Q ; Kanten organisch verlegen
+F6          ; Eigenschaften (Reiter UML)

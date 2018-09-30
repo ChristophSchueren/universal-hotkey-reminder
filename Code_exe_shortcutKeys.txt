@@ -1,3 +1,5 @@
+ctrl + Numpad3 create user SNIPPET
+
 Ctrl+Shift+U , Toggle Shell output
 ctrl + alt + F , Format Document
 Ctrl+Shift+ß , Fold Method
@@ -5,4 +7,28 @@ Ctrl+Shift+ß , Fold Method
 Ctrl + K Ctrl + 0 , fold all
 Ctrl + K Ctrl + 9 , UNfold all
 
+Ctrl + K Ctrl + W , close ALL editors
+
+Ctrl + Shift + G , open Git panel
+Ctrl + Shift + E , open File panel
+
 F8 , next ERROR
+
+Ctrl+Shift+ü , focus command (Breadcrumbs)
+
+
+
+
+from extensions
+-----------------------
+alt + o , switch component ts/html
+ctrl+Shift+i , surround with tag
+
+in palette search
+-----------------------
+sensitivereplace
+wrap [emmet]
+filterline
+pasteJsonAsCode [Ts]
+copy with line numbers (context menu)
+

@@ -6,3 +6,5 @@ Ctrl+3            Großes Such Menu (Normal: ctrl + Q)
 Ctrl+2            show Refectoring menu down right
 
                   show Keymap
+Ctrl+Shift+Down,  goto next Member
+Ctrl+Shift+L,     quick text search
